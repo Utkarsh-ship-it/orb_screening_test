@@ -1,0 +1,5 @@
+2020-05-22 16:26:08,482 DEBUG Starting new HTTPS connection (1): dot.ca.gov:443
+2020-05-22 16:26:08,651 DEBUG https://dot.ca.gov:443 "GET /contact-us HTTP/1.1" 200 38491
+2020-05-22 16:26:08,732 DEBUG Starting new HTTPS connection (1): dot.ca.gov:443
+2020-05-22 16:26:08,894 DEBUG https://dot.ca.gov:443 "GET / HTTP/1.1" 200 39350
+2020-05-22 16:26:08,946 WARNING No table elem found. check the base url {self.url} whether it's still valid or not?
