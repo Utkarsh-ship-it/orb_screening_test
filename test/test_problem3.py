@@ -1,7 +1,7 @@
 import unittest
 from src import problem3
 
-class TestCleanNames(unittest.TestCase):
+class TestFetchCaltransOffices(unittest.TestCase):
     '''
         
         - checking for URL call.
@@ -21,7 +21,6 @@ class TestCleanNames(unittest.TestCase):
     def test_process_html_page(self):
         self.ws_obj.url = 'https://dot.ca.gov/'
         self.ws_obj.call_url()
-        self.ws_obj.table_elem = None
         self.assertEqual(self.ws_obj.process_html_page(), False)
 
 if __name__ == '__main__':
