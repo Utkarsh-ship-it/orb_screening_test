@@ -1,3 +1,11 @@
+Problem 1: Write a Python function that gets a list of raw names, processes it and returns the list of pairs equal to list.
+
+problem 2: Write a Python function that gets a list of raw names, processes it and returns the list of pairs equal to list.
+
+problem 3: Write a Python script that:
+            fetches Caltrans offices page: http://www.dot.ca.gov/mail.htm extracts offices information
+            and returns office info in JSON form as shown below:
+
 - Files in src folder are source files for all the problems.
     - problem1  and problem3 are python files.
     - problem2 is sql file.
